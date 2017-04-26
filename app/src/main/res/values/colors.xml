@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorPrimary_purple">#a82dbd</color>
+    <color name="colorPrimaryDark_purple">#6d227a</color>
+    <color name="colorAccent_purple">#ce3be7</color>
+    <color name="navigationBar_purple">#3d1245</color>
+</resources>
